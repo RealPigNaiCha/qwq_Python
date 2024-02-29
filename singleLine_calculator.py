@@ -1,6 +1,6 @@
 """
 数值运算
-
+Author:RealPigNaiCha
 描述
 获得用户输入的一个字符串，格式如下：
 M OP N

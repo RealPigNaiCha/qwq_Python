@@ -1,4 +1,5 @@
-'''Turtle demo created in 2024/2/28/10:51'''
+'''Turtle demo created in 2024/2/28/10:51
+Author:RealPigNaiCha'''
 from turtle import *
 fillcolor("red")
 begin_fill()

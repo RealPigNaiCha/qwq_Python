@@ -1,5 +1,6 @@
 """draw random python 
-created in 2024/02/29"""
+created in 2024/02/29
+Author:RealPigNaiCha"""
 from turtle import *
 import random
 pythonLen=random.randint(1,10)

@@ -1,4 +1,5 @@
 '''tempConvert.py
+Author:RealPigNaiCha
 Created in 2024/2/28/11:14'''
 tempStr=input("请输入带有符号的温度值：")
 if tempStr[-1] in ['F','f']:
